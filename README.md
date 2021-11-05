@@ -5,13 +5,12 @@
 
        * 💼 Currently I'm working as Senior SW Team Leader @ Valeo leading a team of 15 Engineers working on BSPs and BSW Abstraction for Integrity and Linux based advanced multicore SOCs.
 
-       💬 Experienced Embedded Software Engineer with a demonstrated history of working in the automotive industry. Skilled in C programming, Embedded Linux, RTOS especially INTEGRITY®, Linux, Communication Protocols
-especially CAN, LIN and Ethernet, Developing in Kernel BSP drivers, Porting SoCs, Requirement Management, UML, SW Design, Requirement Traceability, Making Robotics, and Proven Scripting Skills.
+       💬 Experienced Embedded Software Engineer with a demonstrated history of working in the automotive industry. Skilled in C programming, Embedded Linux, RTOS especially INTEGRITY®, Linux, Communication Protocols especially CAN, LIN and Ethernet, Developing in Kernel BSP drivers, Porting SoCs, Requirement Management, UML, SW Design, Requirement Traceability, Making Robotics, and Proven Scripting Skills.
 
 - 🌱 I’m currently learning `Image Proessing`
 - 📫 How to reach me ...
 
-       📧 mohamad.saeed-hammad@gmail.com
+       📧 mohamad.saeed.hammad@gmail.com
 
        📞 +201550333923
 
