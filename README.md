@@ -3,7 +3,7 @@
 
   - 🧡 Passion to learn, make, and explore new ideas and adventures,,
 
-  - 💼 Currently I'm working as SW Division Manager @ Valeo leading a team of 60 Engineers working on BSPs and BSW Abstraction for Integrity and Linux based advanced multicore SOCs.
+  - 💼 Currently I'm working as SW Division Manager @ Valeo leading a team of +90 Engineers working on BSPs and BSW Abstraction for Integrity and Linux based advanced multicore SOCs.
 
   -  💬 Experienced Embedded Software Engineer with a demonstrated history of working in the automotive industry. Skilled in C programming, Embedded Linux, RTOS especially INTEGRITY®, Linux, Communication Protocols especially CAN, LIN and Ethernet, Developing in Kernel BSP drivers, Porting SoCs, Requirement Management, UML, SW Design, Requirement Traceability, Making Robotics, and Proven Scripting Skills.
 
